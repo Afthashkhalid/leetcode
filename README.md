@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Afthashkhalid/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+## Database
+|  |
+| ------- |
+| [0627-swap-salary](https://github.com/Afthashkhalid/leetcode/tree/master/0627-swap-salary) |
 <!---LeetCode Topics End-->
