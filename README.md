@@ -55,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Afthashkhalid/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Afthashkhalid/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Afthashkhalid/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0476-number-complement](https://github.com/Afthashkhalid/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
