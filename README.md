@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Afthashkhalid/leetcode/tree/master/1179-game-play-analysis-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/Afthashkhalid/leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Afthashkhalid/leetcode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
+| [1827-invalid-tweets](https://github.com/Afthashkhalid/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Afthashkhalid/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Bit Manipulation
 |  |
