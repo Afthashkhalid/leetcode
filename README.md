@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/Afthashkhalid/leetcode/tree/master/0283-move-zeroes) |
 | [1944-truncate-sentence](https://github.com/Afthashkhalid/leetcode/tree/master/1944-truncate-sentence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -64,5 +65,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/Afthashkhalid/leetcode/tree/master/0476-number-complement) |
 <!---LeetCode Topics End-->
