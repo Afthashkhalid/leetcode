@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Afthashkhalid/leetcode/tree/master/0069-sqrtx) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Afthashkhalid/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
 | [0476-number-complement](https://github.com/Afthashkhalid/leetcode/tree/master/0476-number-complement) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Afthashkhalid/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
