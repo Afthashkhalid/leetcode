@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/Afthashkhalid/leetcode/tree/master/0283-move-zeroes) |
+| [1791-richest-customer-wealth](https://github.com/Afthashkhalid/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Afthashkhalid/leetcode/tree/master/1944-truncate-sentence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Afthashkhalid/leetcode/tree/master/2502-sort-the-people) |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Afthashkhalid/leetcode/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [1791-richest-customer-wealth](https://github.com/Afthashkhalid/leetcode/tree/master/1791-richest-customer-wealth) |
 <!---LeetCode Topics End-->
