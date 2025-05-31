@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Afthashkhalid/leetcode/tree/master/0035-search-insert-position) |
 | [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/Afthashkhalid/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/Afthashkhalid/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Afthashkhalid/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Afthashkhalid/leetcode/tree/master/0069-sqrtx) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Afthashkhalid/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Database
