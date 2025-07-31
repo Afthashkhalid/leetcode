@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0782-jewels-and-stones](https://github.com/Afthashkhalid/leetcode/tree/master/0782-jewels-and-stones) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Afthashkhalid/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/Afthashkhalid/leetcode/tree/master/0058-length-of-last-word) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Afthashkhalid/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0782-jewels-and-stones](https://github.com/Afthashkhalid/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Afthashkhalid/leetcode/tree/master/1205-defanging-an-ip-address) |
 | [1894-merge-strings-alternately](https://github.com/Afthashkhalid/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Afthashkhalid/leetcode/tree/master/1944-truncate-sentence) |
