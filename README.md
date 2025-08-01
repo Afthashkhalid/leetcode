@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/Afthashkhalid/leetcode/tree/master/0283-move-zeroes) |
 | [1293-three-consecutive-odds](https://github.com/Afthashkhalid/leetcode/tree/master/1293-three-consecutive-odds) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afthashkhalid/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1791-richest-customer-wealth](https://github.com/Afthashkhalid/leetcode/tree/master/1791-richest-customer-wealth) |
 | [1944-truncate-sentence](https://github.com/Afthashkhalid/leetcode/tree/master/1944-truncate-sentence) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
@@ -19,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Afthashkhalid/leetcode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afthashkhalid/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Afthashkhalid/leetcode/tree/master/2502-sort-the-people) |
 ## Sorting
 |  |
 | ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afthashkhalid/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2502-sort-the-people](https://github.com/Afthashkhalid/leetcode/tree/master/2502-sort-the-people) |
 ## Counting
@@ -104,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Afthashkhalid/leetcode/tree/master/0021-merge-two-sorted-lists) |
+## Counting Sort
+|  |
+| ------- |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afthashkhalid/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
