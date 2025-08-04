@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Afthashkhalid/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Afthashkhalid/leetcode/tree/master/2331-intersection-of-multiple-arrays) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Afthashkhalid/leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## String
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/Afthashkhalid/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0782-jewels-and-stones](https://github.com/Afthashkhalid/leetcode/tree/master/0782-jewels-and-stones) |
 | [1205-defanging-an-ip-address](https://github.com/Afthashkhalid/leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Afthashkhalid/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1894-merge-strings-alternately](https://github.com/Afthashkhalid/leetcode/tree/master/1894-merge-strings-alternately) |
 | [1944-truncate-sentence](https://github.com/Afthashkhalid/leetcode/tree/master/1944-truncate-sentence) |
 | [2502-sort-the-people](https://github.com/Afthashkhalid/leetcode/tree/master/2502-sort-the-people) |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Afthashkhalid/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Greedy
+|  |
+| ------- |
+| [1341-split-a-string-in-balanced-strings](https://github.com/Afthashkhalid/leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
