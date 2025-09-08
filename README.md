@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Afthashkhalid/leetcode/tree/master/0069-sqrtx) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Afthashkhalid/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1635-number-of-good-pairs](https://github.com/Afthashkhalid/leetcode/tree/master/1635-number-of-good-pairs) |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Afthashkhalid/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Afthashkhalid/leetcode/tree/master/2812-find-the-maximum-achievable-number) |
