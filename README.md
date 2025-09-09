@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/Afthashkhalid/leetcode/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/Afthashkhalid/leetcode/tree/master/0338-counting-bits) |
 | [0476-number-complement](https://github.com/Afthashkhalid/leetcode/tree/master/0476-number-complement) |
 ## Math
 |  |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2129-number-of-pairs-of-interchangeable-rectangles](https://github.com/Afthashkhalid/leetcode/tree/master/2129-number-of-pairs-of-interchangeable-rectangles) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/Afthashkhalid/leetcode/tree/master/0338-counting-bits) |
 <!---LeetCode Topics End-->
